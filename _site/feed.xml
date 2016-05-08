@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physics AS Notes</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://itisnathaniel.github.io/physics/</link>
+    <atom:link href="http://itisnathaniel.github.io/physics/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 08 May 2016 16:16:10 +0100</pubDate>
+    <lastBuildDate>Sun, 08 May 2016 16:16:10 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.0</generator>
+    
+      <item>
+        <title>Progressive Waves</title>
+        <description>&lt;p&gt;&lt;strong&gt;Drainage Basin:&lt;/strong&gt;
+The area drained by a river and all of its tributaries&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jan 2016 14:24:23 +0000</pubDate>
+        <link>http://itisnathaniel.github.io/physics/waves/2016/01/27/Progressive.html</link>
+        <guid isPermaLink="true">http://itisnathaniel.github.io/physics/waves/2016/01/27/Progressive.html</guid>
+        
+        
+        <category>waves</category>
+        
+      </item>
+    
+      <item>
+        <title>Photoelectric Effect</title>
+        <description>&lt;p&gt;&lt;strong&gt;Drainage Basin:&lt;/strong&gt;
+The area drained by a river and all of its tributaries&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jan 2016 14:24:23 +0000</pubDate>
+        <link>http://itisnathaniel.github.io/physics/quantum/2016/01/27/photoelectric.html</link>
+        <guid isPermaLink="true">http://itisnathaniel.github.io/physics/quantum/2016/01/27/photoelectric.html</guid>
+        
+        
+        <category>quantum</category>
+        
+      </item>
+    
+      <item>
+        <title>Atomic Structure</title>
+        <description>&lt;p&gt;&lt;strong&gt;Drainage Basin:&lt;/strong&gt;
+The area drained by a river and all of its tributaries&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jan 2016 14:24:23 +0000</pubDate>
+        <link>http://itisnathaniel.github.io/physics/particles/2016/01/27/atomic-structure.html</link>
+        <guid isPermaLink="true">http://itisnathaniel.github.io/physics/particles/2016/01/27/atomic-structure.html</guid>
+        
+        
+        <category>particles</category>
+        
+      </item>
+    
+      <item>
+        <title>Scalars and Vectors</title>
+        <description>&lt;p&gt;&lt;strong&gt;Drainage Basin:&lt;/strong&gt;
+The area drained by a river and all of its tributaries&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jan 2016 14:24:23 +0000</pubDate>
+        <link>http://itisnathaniel.github.io/physics/mechanics/2016/01/27/Scalars-and-Vectors.html</link>
+        <guid isPermaLink="true">http://itisnathaniel.github.io/physics/mechanics/2016/01/27/Scalars-and-Vectors.html</guid>
+        
+        
+        <category>mechanics</category>
+        
+      </item>
+    
+      <item>
+        <title>Density</title>
+        <description>&lt;p&gt;&lt;strong&gt;Drainage Basin:&lt;/strong&gt;
+The area drained by a river and all of its tributaries&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jan 2016 14:24:23 +0000</pubDate>
+        <link>http://itisnathaniel.github.io/physics/materials/2016/01/27/Density.html</link>
+        <guid isPermaLink="true">http://itisnathaniel.github.io/physics/materials/2016/01/27/Density.html</guid>
+        
+        
+        <category>materials</category>
+        
+      </item>
+    
+      <item>
+        <title>5. Resistivity, Semiconductors and Superconductors</title>
+        <description>&lt;p&gt;&lt;strong&gt;Resistivity&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How difficult it is for a current to flow through a material&lt;/li&gt;
+  &lt;li&gt;Lower resistivity means a better conductor&lt;/li&gt;
+  &lt;li&gt;For example, for a wire it depends on:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Length (L)&lt;/em&gt; as longer wire means it’s more dorrocult to make current flow through, resistance is proportional to wire length&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Area (A)&lt;/em&gt; as wider wire means easier for electrons to pass along&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Resistivity (ρ)&lt;/em&gt; is a measurement of how much the material is resisting the flow of current. It depends on structure of material and environmental factors (temperature and light intensity)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;\[ ρ =\dfrac {RA}{L} \]
+&lt;em&gt;Where ρ = Resistivity (Ωm), R = Resistance (Ω), A = CSA (m), L = Length (m)&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Q: Metal has length 0.50cm, square CSA (width 11cm) and 
+resistance 1.22x10-8Ω, find resistivity:
+A: ρ = RA/L --&amp;gt; ρ= 1.22x10^-8x(0.11x0.11)/0.005 --&amp;gt; 2.9 x 10^-9Ωm
+
+Q: Toaster&#39;s heating element is bare nichrome wire with radius 0.02mm 
+and 0.8m length. Find wire&#39;s resistance (Nicrome ρ=1.10x10-6Ωm)
+A: R = PL/A --&amp;gt; R=(1.10x10^-6 x 0.8)/(π(0.002^2) --&amp;gt; 7.009 --&amp;gt; 7Ω
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Semiconductors&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Group of materials that aren’t as good at conducting as metals due to having fewer charge carriers (electrons) available&lt;/li&gt;
+  &lt;li&gt;If energy is supplied to the semiconductor (i.e by increasing the temperature) so more charge carriers are released and the resistivity decreases&lt;/li&gt;
+  &lt;li&gt;Make good sensors for detecting changes&lt;/li&gt;
+  &lt;li&gt;Three of the most common semiconductors are thermistors, light-dependant resistors and diodes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Thermistor - a semiconductor:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Thermistors resistance depends on the surrounding temperature&lt;/li&gt;
+  &lt;li&gt;In NTC resistor the resistance decreases as the temperature increases&lt;/li&gt;
+  &lt;li&gt;The thermistor being warmed gives electrons enough energy to escape from atoms so the resistance is lower&lt;/li&gt;
+  &lt;li&gt;Useful as temperature sensors&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/image/posts/thermistor-restemp.gif&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Resistance/Temperature graph for NTC thermistor&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To investigate their resistance:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Put thermistor in beaker (connected to ammeter)&lt;/li&gt;
+  &lt;li&gt;Pour boiling water into beaker (enough to cover thermistor) and record the temperature of the water and the current though the circuit&lt;/li&gt;
+  &lt;li&gt;Every 5°C the water drops record the current, do this for at least 8 measurements&lt;/li&gt;
+  &lt;li&gt;Plot an Resistance/Temperature graph and the pattern above should be shown&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Superconductors:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Most materials have some resistivity (even copper) but means that some energy is always lost as heat&lt;/li&gt;
+  &lt;li&gt;Superconductors stop this, if the material has its temperature lowered below the transitional temperature their resistivity disappears entirely and become superconductor&lt;/li&gt;
+  &lt;li&gt;With no resistance no electricital energy becomes heat so none wasted&lt;/li&gt;
+  &lt;li&gt;However most transitional temperatures below -273°C so very expensive to cool that low&lt;/li&gt;
+  &lt;li&gt;Scientists currently working to increase this temperature&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Uses:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Power cables to transmit energy without any loss&lt;/li&gt;
+  &lt;li&gt;Strong electromagnets (for maglev trains)&lt;/li&gt;
+  &lt;li&gt;Electronic circuits with very little energy loss&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://itisnathaniel.github.io/physics/electricity/2016/01/27/resistivity.html</link>
+        <guid isPermaLink="true">http://itisnathaniel.github.io/physics/electricity/2016/01/27/resistivity.html</guid>
+        
+        
+        <category>electricity</category>
+        
+      </item>
+    
+      <item>
+        <title>6. Resistivity of a wire (Required Practical 5)</title>
+        <description>&lt;p&gt;&lt;strong&gt;Determine resistivity&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Finding the resistance using a test wire (of the material you want to know the resistivity of&lt;/li&gt;
+  &lt;li&gt;Can then use the resistnace and wire dimensions to calculate the resisitivity using:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;\[ ρ =\dfrac {RA}{L} \]
+&lt;em&gt;Where ρ = Resistivity (Ωm), R = Resistance (Ω), A = CSA (m), L = Length (m)&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Calculate the wire’s cross sectional area:
+    &lt;ul&gt;
+      &lt;li&gt;Measure diameter in 3 different places using micrometer&lt;/li&gt;
+      &lt;li&gt;Find mean diameter and half it to get radius (and convert value into metres)&lt;/li&gt;
+      &lt;li&gt;Sub into: a = πr^2 to get cross-sectional area&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Measure the resistivity using the following set up:&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/image/posts/resistivityset-up.png&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;How to set up circuit&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Attach flying lead to end of test wire and measure length of test wire attached to circuit&lt;/li&gt;
+  &lt;li&gt;Close switch and measure p.d across test wire and current through circuit&lt;/li&gt;
+  &lt;li&gt;Open switch and record results&lt;/li&gt;
+  &lt;li&gt;Repeat again and record results for same length and take mean&lt;/li&gt;
+  &lt;li&gt;Reposition flying lead to get average at different lengths&lt;/li&gt;
+  &lt;li&gt;Plot a graph of resistance/length and draw on line of best fit&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;As gradient of line = R/L rearranging resistivity equation gives:
+\[ \dfrac {ρ}{A} =\dfrac {R}{L} \]&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Can now sub in known values to get resistivity, so just multiply gradient by cross sectional area (in metres squared)&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://itisnathaniel.github.io/physics/electricity/practical/2016/01/27/resistivity-practical.html</link>
+        <guid isPermaLink="true">http://itisnathaniel.github.io/physics/electricity/practical/2016/01/27/resistivity-practical.html</guid>
+        
+        
+        <category>electricity</category>
+        
+        <category>practical</category>
+        
+      </item>
+    
+      <item>
+        <title>3. Resistance</title>
+        <description>&lt;p&gt;&lt;strong&gt;Resistance&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If potential difference put across component, current will flow&lt;/li&gt;
+  &lt;li&gt;How much current dependant on dependent on resistance of the component&lt;/li&gt;
+  &lt;li&gt;Resistance of component is how difficult to get current to flow&lt;/li&gt;
+  &lt;li&gt;Measured in Ohms (Ω)&lt;/li&gt;
+  &lt;li&gt;1Ω means 1V makes 1A flow through&lt;/li&gt;
+  &lt;li&gt;Equation:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;\[ R =\dfrac {V}{I} \]
+&lt;em&gt;Where R = Resistance (Ω), V = P.D (V), I = Current (A)&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Q: P.D across a component 230V, current is 12.4A;
+   calculate component resistance 
+A: 230/12.4 = 18.6Ω (19Ω)
+
+Q: Resistor resistance of 4.43Ω and p.d of 12V. Calculate current
+A: I = V/R --&amp;gt; I= 12/4.43 --&amp;gt; I=2.7A ---
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Ohmic Conductors&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rule to predict how current changes as potential difference changes for certain conductors (called Ohmic conductors)&lt;/li&gt;
+  &lt;li&gt;Rule called Ohm’s Law&lt;/li&gt;
+  &lt;li&gt;States that providing that temperature and other conditions remain constant, the current through an Ohmic conductor is directly proportional to p.d across it.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/image/posts/ohmic.gif&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Ohmic Conductor I/P.D graph&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Resistance can however be affected by light level or temperature, so Ohm’s is only appliable to certain conductors under certain conditions&lt;/li&gt;
+  &lt;li&gt;Many components aren’t Ohmic and have very different I-V graphs&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://itisnathaniel.github.io/physics/electricity/2016/01/27/resistance.html</link>
+        <guid isPermaLink="true">http://itisnathaniel.github.io/physics/electricity/2016/01/27/resistance.html</guid>
+        
+        
+        <category>electricity</category>
+        
+      </item>
+    
+      <item>
+        <title>7. Power and Electrical Energy</title>
+        <description>&lt;p&gt;&lt;strong&gt;Power&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The rate of transfer of energy&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Measured in Watts (W); 1W means 1 joule of energy transferred per second
+\[ P =\dfrac {E}{t} \    or    \ P = IV \]
+&lt;em&gt;Where P = power (W), E = Energy (J), T = Time (s), I = Current (A), V = p.d (V)&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Equations for calculating power to be derived from:
+\[ I =\dfrac {P}{V} \    and    \ V = IR \]
+&lt;em&gt;to give:&lt;/em&gt;
+\[ P =\dfrac {V^2}{R} \    and    \ P = I^2R \]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Q: 24W headlamp connected to 12V battery, assuming the wires have 
+negligible resistance:
+1) How much energy converted into light 2 hours. 2) Lamp resistance
+
+A: 
+1. 60x60x2 = 7200 seconds. P=E/T, E=PT, E=24x7200, E=172,800, E=172kJ
+2. V=IR --&amp;gt; R=V/I --&amp;gt; R=12/I --&amp;gt; I=24/12 I=2A --&amp;gt; R=12/2 --&amp;gt; R=6Ω
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Energy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If looking for the total energy transferred, substitute P=E/T into power equations to get the following energy equations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;\[ E = IVt \ and \ E =\dfrac {V^2}{R}t \] &lt;em&gt;also&lt;/em&gt; \[E = I^2Rt\]&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Q: Takes 4.5 minutes for kettle to boil, 4.0A current flows through the 
+heating element when connected to 230V mains.
+1) calculate kettle power. 2) calculate energy for heat to boil
+
+A:
+1. P=IV --&amp;gt; P=4x230 --&amp;gt; P=920W
+2. E=920(4.5x60) --&amp;gt; E=248,400J --&amp;gt; 250kJ
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://itisnathaniel.github.io/physics/electricity/2016/01/27/power-electricity.html</link>
+        <guid isPermaLink="true">http://itisnathaniel.github.io/physics/electricity/2016/01/27/power-electricity.html</guid>
+        
+        
+        <category>electricity</category>
+        
+      </item>
+    
+      <item>
+        <title>I0. Potential Divider</title>
+        <description>&lt;p&gt;&lt;strong&gt;What is it?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A circuit with a voltage source (battery) and resistors in series&lt;/li&gt;
+  &lt;li&gt;The p.d across the voltage source is split across the resistance in the resistances ratio&lt;/li&gt;
+  &lt;li&gt;Can use potential dividers to supply p.d between 0 and the p.d across power supply&lt;/li&gt;
+  &lt;li&gt;Useful if need a varying p.d or a p.d less than is provided by the power supply&lt;/li&gt;
+  &lt;li&gt;By the time the time the voltage reaches point Z, it has dropped by V1, remaining voltage which can be supplied to another component is Vout&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Vout is the same as voltage across R2 
+&lt;img src=&quot;/image/posts/potentialdivider.gif&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Potential Divider set-up&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Rearraning V=IR to get the formula
+    &lt;ul&gt;
+      &lt;li&gt;Total resistance R = R1 + R2 as resistors in series&lt;/li&gt;
+      &lt;li&gt;Total voltage is Vs and current is I1&lt;/li&gt;
+      &lt;li&gt;So Vs = I(R1+R2)&lt;/li&gt;
+      &lt;li&gt;The potential divider equation itself is:&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;\[ V_{out} = \dfrac {R_2}{R_1+R_2}V_s\]&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Q: For the diagram above Vs=9V, Vout=6v. Suggest R1 and R2 values
+A: Vout/Vs --&amp;gt; 6/9 = 2/3
+R2/R1+R2 =2/3 so R1=100Ω, R2=200Ω
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Variable Resistors:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Replacing one of the resistors (i.e. R1) with a variable resistor would mean that Vout can be varied&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Light and Temperature sensors&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Light-dependant resistor (LDR) has very high resistance in dark but lower in light&lt;/li&gt;
+  &lt;li&gt;An NTC thermistor has a high resistance at low temperatures but much lower at high temperatures&lt;/li&gt;
+  &lt;li&gt;Both can be used in a potential divider varying output voltage with light or temperature&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Potentiometers&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Variable resistor to replace both R1 and R2 of the divider&lt;/li&gt;
+  &lt;li&gt;Moving a slider adjusts the relative size of R1 and R2&lt;/li&gt;
+  &lt;li&gt;Useful when need to change voltage continuously (i.e. in stereos)&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://itisnathaniel.github.io/physics/electricity/2016/01/27/potential-divider.html</link>
+        <guid isPermaLink="true">http://itisnathaniel.github.io/physics/electricity/2016/01/27/potential-divider.html</guid>
+        
+        
+        <category>electricity</category>
+        
+      </item>
+    
+  </channel>
+</rss>

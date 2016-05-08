@@ -1,0 +1,57 @@
+---
+layout: post
+title:  2. Charge, Current and Potential Difference
+
+categories: electricity
+---
+**Charge:**
+
+* Electrical circuit charge is carried through wires by electrons (called charge carriers)
+* The units of charge are Colomb (C)
+* One colomb is the amount of charge passing through the circuit in 1 second when the current is 1 amp
+* Conserved quantity, cannot be created nor destroyed
+
+\\[ \Delta Q = I\Delta T  \\]
+*Where Q = Charge (Coulomb), I = Current (Amps), T = Time (Seconds)*
+
+	Q: How much charge passes a point when 20mA flows for 1 hour?
+	A: (20x10-3)x60(60) = 72 C
+	
+	Q: If electron carries -1.6x10-19C, how many pass per second 
+	when current is 1A?
+	A: -1.6x10^-19C = 1A x 1  ---> 1/1.6x10-19C ---> 6.25x10^18 Electrons
+
+---
+
+**Current**
+
+* Current is the rate of flow of charge
+* Represented by 'I' in equations
+* Scalar quantity and unit Ampere (or amp/A)
+
+\\[ I =\dfrac {\Delta Q}  {\Delta T}\\]
+
+	Q: What current flows when a charge of 100C passes point in 20 seconds?
+	A: 100/20 = 5A
+	
+---
+
+**Potential Difference**
+
+* The energy needed to be tranferred to the charge to make it flow through the circuit
+* Also known as p.d and V (in equations)
+* This is supplied by the power source (such as a battery)
+* When the charge flows through it's 'raised' through a potential and charge is transferred as electrical potential energy
+* When energy transferred 'work is done', so power source does work to move charge around circuit
+* Potential difference or volage between two points is the work done moving unit charge between these points
+* Higher p.d means charge moves faster so more energy transferred
+* Charge of one coulomb pasing through a p.d of one volt is one joule of work done
+\\[ V =\dfrac {\Delta W}  {\Delta T}\\ or \\ W = QV \\]
+*Where W = Work Done*
+
+-
+
+	Q: 2C charge moved through 160V pd in electric motor. 
+	How much energy transferred from energy supply to the motor?
+	A: W=QV --> W=2x160 --> W=320J
+---

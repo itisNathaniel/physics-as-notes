@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>geog</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://itisnathaniel.github.io/geography/</link>
+    <atom:link href="http://itisnathaniel.github.io/geography/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 04 May 2016 16:42:54 +0100</pubDate>
+    <lastBuildDate>Wed, 04 May 2016 16:42:54 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.0</generator>
+    
+      <item>
+        <title>Drainage Basin feature definitions</title>
+        <description>&lt;p&gt;&lt;strong&gt;Drainage Basin:&lt;/strong&gt;
+The area drained by a river and all of its tributaries&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jan 2016 14:24:23 +0000</pubDate>
+        <link>http://itisnathaniel.github.io/geography/rivers/2016/01/27/hydrological-cycle.html</link>
+        <guid isPermaLink="true">http://itisnathaniel.github.io/geography/rivers/2016/01/27/hydrological-cycle.html</guid>
+        
+        
+        <category>rivers</category>
+        
+      </item>
+    
+      <item>
+        <title>Test</title>
+        <description>&lt;p&gt;Hello&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jan 2016 14:24:23 +0000</pubDate>
+        <link>http://itisnathaniel.github.io/geography/population/2016/01/27/generic-population.html</link>
+        <guid isPermaLink="true">http://itisnathaniel.github.io/geography/population/2016/01/27/generic-population.html</guid>
+        
+        
+        <category>population</category>
+        
+      </item>
+    
+  </channel>
+</rss>
